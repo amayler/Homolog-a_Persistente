@@ -47,12 +47,10 @@ If you wish to run the code locally, follow these steps:
 
 ## Requirements
 
-The main Python packages required are listed in `requirements.txt`. The key libraries include:
+The main Python packages required are:
 - numpy 
 - ripser
 - plot_diagramsnumpy
-- pandas
-
   
 ## Data
 
