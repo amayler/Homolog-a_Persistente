@@ -1,12 +1,17 @@
 # Homologia Persistente
-# Supplementary Code: [Título de tu Artículo]
+# Supplementary Code: [Homología Persistente]
 
-This repository contains the code and resources to reproduce the analysis and results from a research tittled "**[Homogía Persistente]**" published in [Journal of Basic Sciences].
+This repository contains the code and resources to reproduce the analysis and results from a research tittled "**[Homogía Persistente]**" published in [Journal of Basic Sciences]. Two examples are presented of how the Python Ripser library is used to calculate Persistent Homology.
+
+To use Ripser, it is necessary to have Python installed on our computer. Ripser allows calculating the persistent homology of datasets and visualizing persistence diagrams. Originally, the Ripser library was designed to be used in the C programming language, so before installing Ripser, it is necessary to install the Cython library. 
+
+This can be done from the Python command line with the command: pip install Cython. On the other hand, to install Ripser, use the command: pip install Ripser. Usually, Ripser is also used alongside the Python libraries: numpy, matplotlib.pyplot, and plot_diagrams. Below we present examples of how to use Ripser to obtain and understand persistence diagrams.
+
 
 ## Contents
 
-*   `notebook_1/analisis_datos.ipynb`: [Breve descripción de lo que hace este notebook, e.g., "Data preprocessing and exploratory analysis"].
-*   `notebook_2/modelo_entrenamiento.ipynb`: [Breve descripción, e.g., "Training and evaluation of the predictive model"].
+*   `notebook_1/0_generadores_1ra_rev.ipynb`: [Breve descripción de lo que hace este notebook, e.g., "Data preprocessing and exploratory analysis"].
+*   `notebook_2/1_generadores_1ra_rev.ipynb`: [Breve descripción, e.g., "Training and evaluation of the predictive model"].
 
 ## Quick Start in Google Colab
 
@@ -29,13 +34,12 @@ If you wish to run the code locally, follow these steps:
 3.  We recommend creating a virtual environment.
 4.  Install the dependencies:
     ```bash
-    # Using pip
-    pip install -r requirements.txt
+    # Using pip install the Cython library.
+    pip install Cython
 
-    # Or using conda
-    conda env create -f environment.yml
-    conda activate [name-of-the-environment]
-    ```
+    # Using pip to install Ripser
+    pip install Ripser
+    
 5.  Launch Jupyter Notebook or Jupyter Lab:
     ```bash
     jupyter lab
