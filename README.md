@@ -23,7 +23,7 @@ If you wish to run the code locally, follow these steps:
 
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/[TU_USUARIO_GITHUB]/[NOMBRE_DEL_REPO].git
+    git clone https://github.com/amayler/Homolog-a_Persistente.git
     ```
 2.  Navigate to the project directory.
 3.  We recommend creating a virtual environment.
