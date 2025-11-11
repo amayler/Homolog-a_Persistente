@@ -57,6 +57,11 @@ The main Python packages required are:
 *The data used in this study are generated in running time by the programs. The data set is created randomly and processed by the program.*
 
 
+## Citation
+
+If you use this code in your research, please cite our article:
+> [cite: ]
+
 ## Contact
 
 For any questions regarding the code, please open an issue in this repository or contact [jremigio@ujat.mx].
