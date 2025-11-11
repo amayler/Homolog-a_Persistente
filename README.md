@@ -1,2 +1,2 @@
 # Homolog-a_Persistente
-Este proyecto .... 
+Este proyecto .... *
