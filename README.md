@@ -14,8 +14,8 @@ To run the code without any local setup, click the **Open in Colab** badge below
 
 | Notebook | Description | Colab |
 |----------|-------------|-------|
-| `analisis_datos.ipynb` | Data Preprocessing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[TU_USUARIO_GITHUB]/[NOMBRE_DEL_REPO]/blob/main/notebook_1/analisis_datos.ipynb) |
-| `modelo_entrenamiento.ipynb` | Model Training | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[TU_USUARIO_GITHUB]/[NOMBRE_DEL_REPO]/blob/main/notebook_2/modelo_entrenamiento.ipynb) |
+| `analisis_datos.ipynb` | Data Preprocessing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amayler/Homolog-a_Persistente/blob/main/notebook_1/analisis_datos.ipynb) |
+| `modelo_entrenamiento.ipynb` | Model Training | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amayler/Homolog-a_Persistente/blob/main/notebook_2/modelo_entrenamiento.ipynb) |
 
 ## Local Installation
 
