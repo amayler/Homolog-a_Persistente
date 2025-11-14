@@ -1,5 +1,5 @@
 # Homologia Persistente
-# Supplementary Code: [Homología Persistente]
+# Supplementary Code: Homología Persistente
 
 This repository contains the code and resources to reproduce the analysis and results from a research tittled **Homogía Persistente** published in **Journal of Basic Sciences**. Two examples are presented of how the Python **Ripser library** is used to calculate Persistent Homology. 
 To use Ripser, it is necessary to have Python installed on our computer. Ripser allows calculating the persistent homology of datasets and visualizing persistence diagrams. Originally, the Ripser library was designed to be used in the C programming language, so before installing Ripser, it is necessary to install the Cython library. See **Local Installation** below.
